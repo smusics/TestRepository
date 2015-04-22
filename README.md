@@ -1,3 +1,3 @@
 # TestRepository
 Dummy text
-Dummy text
+Resolve
